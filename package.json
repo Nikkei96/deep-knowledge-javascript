@@ -1,0 +1,20 @@
+{
+  "name": "deep-knowledge-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikkei96/deep-knowledge-javascript.git"
+  },
+  "author": "Nikkei96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikkei96/deep-knowledge-javascript/issues"
+  },
+  "homepage": "https://github.com/Nikkei96/deep-knowledge-javascript#readme"
+}
